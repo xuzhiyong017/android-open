@@ -1,6 +1,6 @@
 # Android开源分享
 零广告，欢迎star/fork/watch，谢谢！  
-Android开源分享，持续完善更新中！
+持续完善更新中！
 ## 开源项目集合
 1. android-common   
 项目简介：**主要包括**：<strong>缓存</strong>(图片缓存、预取缓存、网络缓存)、<strong>公共View</strong>(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)及<strong>Android常用工具类</strong>(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)。      
@@ -41,6 +41,10 @@ Android开源分享，持续完善更新中！
 为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。  
 如果你是个 Android 新人，又不善于搜索或不知道从何开始，那么我相信这份列表，将会成为你的首选。  
 项目地址：https://github.com/tangqi92/Android-Tips  
+
+1. android-best-practices  
+项目简介：Do's and Don'ts for Android development, by Futurice developers  
+项目地址：https://github.com/futurice/android-best-practices  
 
 ## Android UI相关
 1. awesome-android-ui  
