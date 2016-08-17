@@ -51,6 +51,10 @@
 项目简介：A curated list of awesome Android UI/UX libraries https://twitter.com/wasabeef_jp  
 项目地址：https://github.com/wasabeef/awesome-android-ui  
 
+1. Material-Animations  
+项目简介：Android Transition animations explanation with examples.  
+项目地址：https://github.com/lgvalle/Material-Animations  
+
 ## 优秀开源团队
 1. Yalantis  
 项目简介：Knowledge is power and the way to get power is by sharing knowledge. We are open source because this is a smart way to live, work and play.  
