@@ -1,36 +1,39 @@
 # Android开源项目汇总
-Android开源项目汇总，持续完善更新中！
-## View相关
-1. PinLockView  
-项目简介：A clean, minimalistic, easy-to-use and highly customizable pin lock custom view for Android.  
-项目地址：https://github.com/aritraroy/PinLockView  
-项目截图：![PinLockView](https://github.com/aritraroy/PinLockView/blob/master/screens/promo.png)  
+Android开源分享，持续完善更新中！
+## 开源项目集合
+1. android-common   
+项目简介：**主要包括**：<strong>缓存</strong>(图片缓存、预取缓存、网络缓存)、<strong>公共View</strong>(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)及<strong>Android常用工具类</strong>(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)。      
+示例源码：[TrineaAndroidDemo](https://github.com/Trinea/AndroidDemo)。  
+项目地址：https://github.com/Trinea/android-common  
 
-1. VideoControllerView  
-项目简介：YOUTUBE Control brightness or volume,or progress  
-项目地址：https://github.com/brucetoo/VideoControllerView  
+1. android-open-project  
+项目简介：非常全的android开源项目集合，包括**个性化控件**，**工具库**，**优秀项目**，**开发及测试工具**，**优秀个人和团队**五大篇。  
+项目地址：https://github.com/Trinea/android-open-project  
 
-1. CardMenuView  
-项目简介：卡片式的菜单视图  
-项目地址：https://github.com/Janseon/CardMenuView  
+1. android-open-project-analysis  
+项目简介：开源项目分析，这是一个协作项目，最终多数开源库原理解析会在这里分享出来。  
+项目地址：https://github.com/android-cn/android-open-project-analysis  
 
-1. SimpleCropView  
-项目简介：A simple image cropping library for Android.  
-项目地址：https://github.com/IsseiAoki/SimpleCropView  
-项目截图：![](https://raw.github.com/wiki/IsseiAoki/SimpleCropView/images/device-art/cover-art.png)  
+1. AndroidDevTools  
+项目简介：收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。 http://www.androiddevtools.cn  
+项目地址：https://github.com/inferjay/AndroidDevTools  
 
-1. Android-Week-View  
-项目简介：Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.  
-项目地址：https://github.com/alamkanak/Android-Week-View  
+1. Lazy  
+项目简介：大神整理的常用的android工具类  
+项目地址：https://github.com/l123456789jy/Lazy  
 
-1. AVLoadingIndicatorView  
-项目简介：Nice loading animations for Android  
-项目地址：https://github.com/81813780/AVLoadingIndicatorView  
+1. android-training-course-in-chinese  
+项目简介：Android官方培训课程中文版 http://hukai.me/android-training-course-in-chinese/index.html  
+项目地址：https://github.com/kesenhoo/android-training-course-in-chinese  
 
-1. StickyHeaderListView  
-项目简介：功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等  
-项目地址：https://github.com/sfsheng0322/StickyHeaderListView  
+## Android学习
+1. Android-Tips  
+项目简介：学习 Android 至今，大大小小的坑没少踩过，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，那些坑都顺利地被填平了。  
+为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。  
+如果你是个 Android 新人，又不善于搜索或不知道从何开始，那么我相信这份列表，将会成为你的首选。  
+项目地址：https://github.com/tangqi92/Android-Tips  
 
-1. smooth-app-bar-layout  
-项目简介：Smooth version of Google Support Design AppBarLayout  
-项目地址：https://github.com/henrytao-me/smooth-app-bar-layout  
+## 有趣的项目
+1. WeChatLuckyMoney  
+项目简介：微信抢红包插件（android版），这个Android插件可以帮助你在微信群聊抢红包时战无不胜。当检测到红包时，插件会自动点击屏幕，人工点击的速度无法比拟。  
+项目地址：https://github.com/geeeeeeeeek/WeChatLuckyMoney/tree/dev  
