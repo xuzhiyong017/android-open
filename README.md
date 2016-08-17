@@ -1,4 +1,4 @@
-# Android开源项目汇总
+# Android开源分享
 Android开源分享，持续完善更新中！
 ## 开源项目集合
 1. android-common   
@@ -40,6 +40,11 @@ Android开源分享，持续完善更新中！
 为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。  
 如果你是个 Android 新人，又不善于搜索或不知道从何开始，那么我相信这份列表，将会成为你的首选。  
 项目地址：https://github.com/tangqi92/Android-Tips  
+
+## 优秀开源团队
+1. Yalantis  
+项目简介：Knowledge is power and the way to get power is by sharing knowledge. We are open source because this is a smart way to live, work and play.  
+项目地址：https://github.com/Yalantis  
 
 ## 有趣的项目
 1. WeChatLuckyMoney  
