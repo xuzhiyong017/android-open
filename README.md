@@ -22,11 +22,19 @@ Android开源分享，持续完善更新中！
 项目简介：大神整理的常用的android工具类  
 项目地址：https://github.com/l123456789jy/Lazy  
 
+1. TimLiu-Android  
+项目简介：大神总结的Android开源项目及库。  
+项目地址：https://github.com/Tim9Liu9/TimLiu-Android  
+
+## Android学习
 1. android-training-course-in-chinese  
 项目简介：Android官方培训课程中文版 http://hukai.me/android-training-course-in-chinese/index.html  
 项目地址：https://github.com/kesenhoo/android-training-course-in-chinese  
 
-## Android学习
+1. android-tech-frontier  
+项目简介：一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目 http://www.devtf.cn  
+项目地址：https://github.com/hehonghui/android-tech-frontier  
+
 1. Android-Tips  
 项目简介：学习 Android 至今，大大小小的坑没少踩过，庆幸的是，在强大的搜索引擎与无私奉献的人们的帮助下，那些坑都顺利地被填平了。  
 为了日后在遇到同样的问题时，能免于再次搜索带来的麻烦，我养成了收藏书签的习惯，随着书签（Tips）的日积月累，我想，是时候该有这个项目了。  
