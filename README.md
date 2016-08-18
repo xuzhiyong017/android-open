@@ -27,6 +27,10 @@
 项目简介：大神总结的Android开源项目及库。  
 项目地址：https://github.com/Tim9Liu9/TimLiu-Android  
 
+1. AndroidUtilCode  
+项目简介：Android开发人员不得不收集的代码(持续更新中)  
+项目地址：https://github.com/Blankj/AndroidUtilCode  
+
 ## Android学习
 1. android-training-course-in-chinese  
 项目简介：Android官方培训课程中文版 http://hukai.me/android-training-course-in-chinese/index.html  
