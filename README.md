@@ -35,6 +35,10 @@
 项目简介：下一代Android打包工具，100个渠道包只需要10秒钟  
 项目地址：https://github.com/mcxiaoke/packer-ng-plugin  
 
+1. android-common  
+项目简介：Android Common Utils or Helper. Such as Log, Averager, Base64, Check, FlashLight, KeyguardLock, LogReader, Network, SilentInstaller, TimeAverager, TimeCounter, Toastor, WakeLock, ScreenReceiver, SmsReceiver, PhoneReceiver, NotificationService, AndroidUtil, AppUtil, BitmapUtil, ByteUtil, ClassUtil, DialogUtil, FieldUtil, FileUtil, HexUtil, MD5Uti…  
+项目地址：https://github.com/litesuits/android-common  
+
 ## Android学习
 1. android-training-course-in-chinese  
 项目简介：Android官方培训课程中文版 http://hukai.me/android-training-course-in-chinese/index.html  
