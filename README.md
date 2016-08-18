@@ -92,3 +92,7 @@
 1. MagicCamera  
 项目简介：Real-time Filter Camera&VideoRecorder And ImageEditor With Face Beauty For Android---包含美颜等40余种实时滤镜相机，可拍照、录像、图片修改  
 项目地址：https://github.com/wuhaoyu1990/MagicCamera  
+
+1. JNote  
+项目简介：一款支持部分Markdown语法的轻量级便签软件。  
+项目地址：https://github.com/Jhuster/JNote  
