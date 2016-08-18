@@ -31,6 +31,10 @@
 项目简介：Android开发人员不得不收集的代码(持续更新中)  
 项目地址：https://github.com/Blankj/AndroidUtilCode  
 
+1. packer-ng-plugin  
+项目简介：下一代Android打包工具，100个渠道包只需要10秒钟  
+项目地址：https://github.com/mcxiaoke/packer-ng-plugin  
+
 ## Android学习
 1. android-training-course-in-chinese  
 项目简介：Android官方培训课程中文版 http://hukai.me/android-training-course-in-chinese/index.html  
