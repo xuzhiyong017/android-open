@@ -76,6 +76,10 @@
 项目简介：Knowledge is power and the way to get power is by sharing knowledge. We are open source because this is a smart way to live, work and play.  
 项目地址：https://github.com/Yalantis  
 
+1. Pili Streaming Cloud  
+项目简介：API based, Live Streaming as-a-Service.（研究RTMP偶遇）  
+项目地址：https://github.com/pili-engineering  
+
 ## 有趣的项目
 1. WeChatLuckyMoney  
 项目简介：微信抢红包插件（android版），这个Android插件可以帮助你在微信群聊抢红包时战无不胜。当检测到红包时，插件会自动点击屏幕，人工点击的速度无法比拟。  
