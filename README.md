@@ -96,3 +96,7 @@
 1. JNote  
 项目简介：一款支持部分Markdown语法的轻量级便签软件。  
 项目地址：https://github.com/Jhuster/JNote  
+
+1. OhMyBiliBili  
+项目简介：高仿系列の哔哩哔哩 - ( ゜- ゜)つロ 乾杯~  
+项目地址：https://github.com/HotBitmapGG/OhMyBiliBili  
