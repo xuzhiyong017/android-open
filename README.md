@@ -100,3 +100,7 @@
 1. OhMyBiliBili  
 项目简介：高仿系列の哔哩哔哩 - ( ゜- ゜)つロ 乾杯~  
 项目地址：https://github.com/HotBitmapGG/OhMyBiliBili  
+
+1. BookShelf  
+项目简介：一款用于管理个人图书及阅读笔记的移动 Android 应用。图书查询使用了 Volley 网络库调用豆瓣图书API。  
+项目地址：https://github.com/iHaPBoy/BookShelf  
