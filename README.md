@@ -108,3 +108,7 @@
 1. WBZhiHuDailyPaper  
 项目简介：高仿知乎日报  
 项目地址：https://github.com/chatwyn/WBZhiHuDailyPaper  
+
+1. GankGirl  
+项目简介：RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等。  
+项目地址：https://github.com/gaolonglong/GankGirl  
