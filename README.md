@@ -120,3 +120,7 @@
 1. Leisure  
 项目简介：一款集”知乎日报”、“果壳科学人”、“新华网新闻”以及“豆瓣图书”于一体的阅读类Android应用。  
 项目地址：https://github.com/MummyDing/Leisure  
+
+1. CoCoin  
+项目简介：一款多视图记账App  
+项目地址：https://github.com/Nightonke/CoCoin  
