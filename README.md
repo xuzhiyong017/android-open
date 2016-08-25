@@ -126,5 +126,9 @@
 项目地址：https://github.com/Nightonke/CoCoin  
 
 1. 36krReader  
-MD风格的36氪Android阅读客户端  
+项目简介：MD风格的36氪Android阅读客户端  
 项目地址：https://github.com/kinneyyan/36krReader  
+
+1. githot  
+项目简介：GitHot is an Android App that will help you to find the world most popular project and person http://githot.io    
+项目地址：https://github.com/andyiac/githot  
