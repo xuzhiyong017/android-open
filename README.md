@@ -124,3 +124,7 @@
 1. CoCoin  
 项目简介：一款多视图记账App  
 项目地址：https://github.com/Nightonke/CoCoin  
+
+1. 36krReader  
+MD风格的36氪Android阅读客户端  
+项目地址：https://github.com/kinneyyan/36krReader  
