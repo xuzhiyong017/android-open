@@ -132,3 +132,7 @@
 1. githot  
 项目简介：GitHot is an Android App that will help you to find the world most popular project and person http://githot.io    
 项目地址：https://github.com/andyiac/githot  
+
+1. Minimal-Todo  
+项目简介：A fully Material ToDo app with minimal features, just enough to be useful.  
+项目地址：https://github.com/avjinder/Minimal-Todo  
